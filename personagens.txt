@@ -1,3 +1,4 @@
 Personagens
 
 Esse sao os personagens ficticios ssssa
+Version 1.1
